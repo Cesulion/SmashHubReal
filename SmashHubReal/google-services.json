@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091500666352",
+    "firebase_url": "https://smashhubreal.firebaseio.com",
+    "project_id": "smashhubreal",
+    "storage_bucket": "smashhubreal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091500666352:android:9f43d6220afaa747",
+        "android_client_info": {
+          "package_name": "com.example.smashhubreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091500666352-dk0vnttgrt26a1p45oteb5qld2s51qb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr7IZLqdyTfp-mmYGA41dSeiolKetw2QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091500666352-dk0vnttgrt26a1p45oteb5qld2s51qb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
